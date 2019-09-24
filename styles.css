@@ -1,4 +1,9 @@
-.container { 
-           display: flex;
+#container { 
+           color: #CC0000;
+	   
            }
-
+#frame {
+  border: 10px solid black;
+  width: 700px;
+  height: 700px;
+}
